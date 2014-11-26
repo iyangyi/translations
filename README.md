@@ -4,7 +4,7 @@ translations
 一些不错英文资料的中文翻译。  
 Chinese translations for good english resources.
 
-设计原则
+设计原则--
 ------------------
 
 - [`Python` Philosophy（`Python`哲学）翻译及简析](python-philosophy/)
